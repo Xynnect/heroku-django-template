@@ -1,11 +1,6 @@
 from django.conf.urls import *
 from django.contrib import admin
 from DjangoProject1.views import hello
-# from django.views import *DjangoProject/urls.py:3
-# from myapp import views as myapp_views
-# from myapp.views import home, contact
-# from django.contrib.auth import views as auth_views
-# from myapp import views as myapp_views
 
 admin.autodiscover()
 
