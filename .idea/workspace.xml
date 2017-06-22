@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03d71a94-9ed7-468f-bdac-2d31c46103d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoProject1/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startServer.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
     </list>
     <ignored path="heroku-django-template.iws" />
@@ -71,9 +57,11 @@
       <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="396">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -549,9 +537,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
